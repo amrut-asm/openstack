@@ -1,0 +1,1 @@
+isolcpus=16-63,80-127 nohz_full=16-63,80-127 rcu_nocbs=16-63,80-127
